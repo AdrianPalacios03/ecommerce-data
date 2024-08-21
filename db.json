@@ -89,51 +89,6 @@
       "currency": "USD",
       "image": "https://via.placeholder.com/150?text=Webcam",
       "rating": 4.6
-    },
-    {
-      "id": 11,
-      "title": "Wireless Charger",
-      "description": "Fast wireless charger compatible with most smartphones.",
-      "price": 22.99,
-      "currency": "USD",
-      "image": "https://via.placeholder.com/150?text=Wireless+Charger",
-      "rating": 4.4
-    },
-    {
-      "id": 12,
-      "title": "Digital Pen",
-      "description": "Stylus pen for digital drawing and note-taking.",
-      "price": 39.99,
-      "currency": "USD",
-      "image": "https://via.placeholder.com/150?text=Digital+Pen",
-      "rating": 4.3
-    },
-    {
-      "id": 13,
-      "title": "Portable Speaker",
-      "description": "Compact and waterproof portable speaker with great sound quality.",
-      "price": 79.99,
-      "currency": "USD",
-      "image": "https://via.placeholder.com/150?text=Portable+Speaker",
-      "rating": 4.7
-    },
-    {
-      "id": 14,
-      "title": "Smartwatch",
-      "description": "Smartwatch with fitness tracking and notification features.",
-      "price": 199.99,
-      "currency": "USD",
-      "image": "https://via.placeholder.com/150?text=Smartwatch",
-      "rating": 4.5
-    },
-    {
-      "id": 15,
-      "title": "Power Bank",
-      "description": "High-capacity power bank for charging devices on the go.",
-      "price": 29.99,
-      "currency": "USD",
-      "image": "https://via.placeholder.com/150?text=Power+Bank",
-      "rating": 4.4
     }
   ]
 }
