@@ -134,51 +134,6 @@
       "currency": "USD",
       "image": "https://via.placeholder.com/150?text=Power+Bank",
       "rating": 4.4
-    },
-    {
-      "id": 16,
-      "title": "Desk Lamp",
-      "description": "Adjustable desk lamp with LED light and dimming options.",
-      "price": 34.99,
-      "currency": "USD",
-      "image": "https://via.placeholder.com/150?text=Desk+Lamp",
-      "rating": 4.2
-    },
-    {
-      "id": 17,
-      "title": "HDMI Cable",
-      "description": "High-speed HDMI cable for high-definition video and audio.",
-      "price": 12.99,
-      "currency": "USD",
-      "image": "https://via.placeholder.com/150?text=HDMI+Cable",
-      "rating": 4.1
-    },
-    {
-      "id": 18,
-      "title": "Wireless Earbuds",
-      "description": "Compact wireless earbuds with charging case and excellent sound quality.",
-      "price": 59.99,
-      "currency": "USD",
-      "image": "https://via.placeholder.com/150?text=Wireless+Earbuds",
-      "rating": 4.6
-    },
-    {
-      "id": 19,
-      "title": "Mouse Pad",
-      "description": "Ergonomic mouse pad with wrist support.",
-      "price": 19.99,
-      "currency": "USD",
-      "image": "https://via.placeholder.com/150?text=Mouse+Pad",
-      "rating": 4.3
-    },
-    {
-      "id": 20,
-      "title": "Laptop Stand",
-      "description": "Adjustable laptop stand for improved ergonomics.",
-      "price": 27.99,
-      "currency": "USD",
-      "image": "https://via.placeholder.com/150?text=Laptop+Stand",
-      "rating": 4.4
     }
   ]
 }
