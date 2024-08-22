@@ -34,7 +34,7 @@
       "price": 129.99,
       "currency": "USD",
       "image": "https://via.placeholder.com/150?text=Mechanical+Keyboard",
-      "rating": 4.7
+      "rating": 1.5
     },
     {
       "id": 5,
@@ -79,7 +79,7 @@
       "price": 49.99,
       "currency": "USD",
       "image": "https://via.placeholder.com/150?text=Laptop+Bag",
-      "rating": 4.2
+      "rating": 3.6
     },
     {
       "id": 10,
@@ -88,7 +88,7 @@
       "price": 69.99,
       "currency": "USD",
       "image": "https://via.placeholder.com/150?text=Webcam",
-      "rating": 4.6
+      "rating": 2.5
     }
   ]
 }
